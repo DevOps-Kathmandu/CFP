@@ -1,1 +1,1 @@
-# meetup-cfp
+# Meetup Call For Paper (CFP)
