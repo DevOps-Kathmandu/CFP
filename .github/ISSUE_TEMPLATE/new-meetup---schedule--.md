@@ -60,4 +60,6 @@ In this session we will hear from him/her on:
 - [ ] Media banner with speaker photo
 - [ ] Publish to meetup group
 - [ ] Shared on media: twitter, facebook groups, slack
+- [ ] Send calendar invite to speaker and hosts
+- [ ] Collect demo codes on github
 - [ ] Update Q/A docs
